@@ -1,0 +1,25 @@
+Instructions for Windows 
+
+
+Steam:
+
+1. Navigate to BOSSGAME: The Final Boss is my Heart in your game library. Click the gear, hover over Manage, and select the "Browse Local Files Option"
+2. Navigate into the release folder
+
+
+itch.io:
+1. Download and Extract the Windows version of Bossgame
+2. (Optional) Copy the extracted BOSSGAME: The Final Boss Is My Heart folder and rename the copy to Bossgame DX
+
+
+Both: 
+3. Download xdelta3 and put "xdelta3.exe" in this folder
+4. Copy Bossgame.exe and the "Bossgame_Data" Folders, paste them inside the "in" folder in this directory
+5. Double click DXpatch.bat, follow the prompt
+6. Navigate to the "out" folder and copy all contents
+7. Return to either the release or BOSSGAME: The Final Boss Is My Heart folder and paste the files. Choose yes to overwrite the files
+8. Double click Bossgame.exe or launch Bossgame on Steam
+9. Enjoy!
+
+
+

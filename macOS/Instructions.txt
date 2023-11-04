@@ -1,0 +1,25 @@
+macOS Install Instructions 
+
+0.Download and Unzip MultiPatch http://projects.sappharad.com/multipatch/
+
+Steam: 
+
+1. On the Bossgame Steam page click the gear, then hover over Manage, select Browse Local Files
+
+
+itch.io:
+
+1. Download the itch.io version of Bossgame for Mac and unzip it
+2. (Optional) Make a copy Bossgame.app and rename it Bossgame DX.app
+
+
+Both:
+3. IMPORTANT, run Bossgame.app/Bossgame DX.app (or whatever you name it) at least once before moving further. Otherwise it will not open with the Mod installed
+4. Right/Second click the .app and select View Package Contents
+5. Navigate to Contents/Resources/Data
+6. Copy the following 4 files: sharedassets0.assets sharedassets2.assets, sharedassets12.assets, sharedassets13.assets and, in another window, place them in this folder
+7. Open Multipatch.app and apply 0.xdelta to sharedassets0.assets, save the file as sharedassets0.assets in the out folder
+8. Repeat for the 2,12,13 patches
+9. Copy the 4 files in the out folder, and paste them back in the Data folder from step 5. Overwrite all files
+10. (Optional) Right click your now modified .app file, select Get Info, and drag DX.icns over top the app logo in the top right. This will change the games icon
+11. Enjoy!
